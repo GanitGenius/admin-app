@@ -13,7 +13,7 @@ jobs:
         - ./node_modules/gulp/bin/gulp.js clean
         - ./node_modules/gulp/bin/gulp.js build
         - ./node_modules/gulp/bin/gulp.js publish
-  test:
+  # test:
 
 # workflows:
 #   version: 2
