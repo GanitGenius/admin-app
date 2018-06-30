@@ -15,10 +15,10 @@ jobs:
         - ./node_modules/gulp/bin/gulp.js publish
   test:
 
-workflows:
-  version: 2
-  wname:
-    - build
+# workflows:
+#   version: 2
+#   wname:
+#     - build
     # - test  
 
     # # Add some environment variables
