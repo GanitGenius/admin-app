@@ -81,3 +81,4 @@ npm install
 ### Execute E2E Tests
 
 ```gulp protractor```
+test
